@@ -7,6 +7,7 @@
             <li><a href="https://jimsssss.github.io/prompting/ANTI-DAN.html">ANTI-DAN Prompt</a></li>
             <li><a href="https://jimsssss.github.io/prompting/DAN.html">DAN Prompt</a></li>
             <li><a href="https://jimsssss.github.io/prompting/EvilPrompt.html">EvilBot Prompt</a></li>
+            <li><a href="https://jimsssss.github.io/prompting/ImageUnlock.html">Image Unlocker Prompt</a></li>
         </hl>
     </div>
 </body>
